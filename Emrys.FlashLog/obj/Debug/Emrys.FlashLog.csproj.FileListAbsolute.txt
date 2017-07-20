@@ -1,0 +1,6 @@
+C:\Users\kab\Desktop\Emrys.FlashLog-master\Emrys.FlashLog-master\Emrys.FlashLog\bin\Debug\Emrys.FlashLog.dll
+C:\Users\kab\Desktop\Emrys.FlashLog-master\Emrys.FlashLog-master\Emrys.FlashLog\bin\Debug\Emrys.FlashLog.pdb
+C:\Users\kab\Desktop\Emrys.FlashLog-master\Emrys.FlashLog-master\Emrys.FlashLog\bin\Debug\log4net.dll
+C:\Users\kab\Desktop\Emrys.FlashLog-master\Emrys.FlashLog-master\Emrys.FlashLog\obj\Debug\Emrys.FlashLog.csprojResolveAssemblyReference.cache
+C:\Users\kab\Desktop\Emrys.FlashLog-master\Emrys.FlashLog-master\Emrys.FlashLog\obj\Debug\Emrys.FlashLog.dll
+C:\Users\kab\Desktop\Emrys.FlashLog-master\Emrys.FlashLog-master\Emrys.FlashLog\obj\Debug\Emrys.FlashLog.pdb
